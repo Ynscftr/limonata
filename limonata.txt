@@ -1,4 +1,5 @@
 1.limon
 2.su
 3.şeker
+4.nane
 Şekeri de ekledik
